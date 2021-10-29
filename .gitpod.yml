@@ -23,3 +23,4 @@ vscode:
     - esbenp.prettier-vscode
     - github.vscode-pull-request-github
     - eamodio.gitlens
+    - github.copilot
