@@ -6,7 +6,6 @@
     "editor.formatOnType": true,
     "editor.formatOnPaste": true,
     "editor.defaultFormatter": null,
-
     "editor.fontFamily": "Consolas, 'Courier New', monospace",
     "editor.fontSize": 14,
     "editor.lineHeight": 20,
