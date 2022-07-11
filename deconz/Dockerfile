@@ -79,3 +79,4 @@ RUN \
     && sed -i 's/\/root/\/data/' /etc/passwd
 
 COPY rootfs /
+COPY
