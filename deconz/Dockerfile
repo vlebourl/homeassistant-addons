@@ -79,4 +79,4 @@ RUN \
     && sed -i 's/\/root/\/data/' /etc/passwd
 
 COPY rootfs /
-COPY
+COPY ddf /usr/share/deCONZ/devices/generic
